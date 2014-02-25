@@ -1,6 +1,6 @@
 {
   "name": "MLG-TWBS-Menu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/MLG/angular-twbs-menu",
   "authors": [
     "Eugene OZ <normandiggs@gmail.com>"
@@ -8,9 +8,6 @@
   "main": "directive.js",
   "license": "no",
   "private": true,
-  "dependencies": {
-    "MLG-WMS-Auth": ""
-  },
   "ignore": [
     "**/.*",
     "node_modules",
