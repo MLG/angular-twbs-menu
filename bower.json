@@ -1,6 +1,6 @@
 {
   "name": "MLG-TWBS-Menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/MLG/angular-twbs-menu",
   "authors": [
     "Eugene OZ <normandiggs@gmail.com>"
@@ -9,7 +9,7 @@
   "license": "no",
   "private": true,
   "dependencies": {
-    "MLG/angular-wms-auth": ""
+    "MLG-WMS-Auth": ""
   },
   "ignore": [
     "**/.*",
